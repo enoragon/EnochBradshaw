@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar class="primary">
+  <v-toolbar fixed class="primary">
     <v-toolbar-title>Enoch Bradshaw</v-toolbar-title>
     <v-spacer></v-spacer>
     <v-toolbar-side-icon class="hidden-md-and-up"></v-toolbar-side-icon>
